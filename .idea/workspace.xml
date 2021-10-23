@@ -11,57 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a16fd7-f98d-4419-9cb6-8c3d2f50707a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/checkbox3.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/custom-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/cssCharts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/index - Copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/jquery.chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/Lightweight-Chart/jquery.chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/chart-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/chartjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/custom-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/dataTables/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/easypiechart-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-1.10.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.metisMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/morris/morris-0.4.3.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/morris/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/morris/raphael-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/select2.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/menu.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/piedpage.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/top.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +179,8 @@
       <workItem from="1611815362413" duration="7804000" />
       <workItem from="1626451011599" duration="268000" />
       <workItem from="1633445736398" duration="604000" />
-      <workItem from="1634383152475" duration="1524000" />
+      <workItem from="1634383152475" duration="4290000" />
+      <workItem from="1634999327254" duration="360000" />
     </task>
     <servers />
   </component>
